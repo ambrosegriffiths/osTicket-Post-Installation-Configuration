@@ -16,9 +16,9 @@
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
+- VIRTUAL MACHINES
 - Download osticket 
-- Item 3
+- Internet information services
 - Item 4
 - Item 5
 
